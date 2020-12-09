@@ -4,4 +4,4 @@
 Introduction
 
 - Unemployment rate in U.S.                     [[go →]](unemployment/README.md)
-- Number of confirmed cases of COVID-19 in U.S. [[go →]]
+- Number of confirmed cases of COVID-19 in U.S. [[go →]](COVID-19/README.md)
