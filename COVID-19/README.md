@@ -1,4 +1,5 @@
 ## WHO COVID-19 global table data
+
 | Name  | WHO Region | Cases - cumulative total |Cases - cumulative total per 1 million population | Cases - newly reported in last 7 days|Cases - newly reported in last 24 hours|Deaths - cumulative total|Deaths - cumulative total per 1 million population|Deaths - newly reported in last 7 days|Deaths - newly reported in last 24 hours|Transmission Classification|
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- |
 |United States of America|Americas|13978171|42229.79|1214174|218671|274077|828.02|12617|2844|Community transmission|
