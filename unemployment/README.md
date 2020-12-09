@@ -1,7 +1,7 @@
 [← go back to the main page](../README.md)
 
 ## Unemployment rate in the United States
-- Jupyter [ipynb file](https://nbviewer.jupyter.org/github/hy605/G13.github.io/blob/main/unemployment.ipynb)
+- Jupyter: [ipynb file](https://nbviewer.jupyter.org/github/hy605/G13.github.io/blob/main/unemployment.ipynb)
 
 |Year|January|Februray|March|April|May|June|July|August|September|October|November|December|
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
