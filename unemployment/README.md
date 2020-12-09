@@ -1,4 +1,5 @@
-## Unemployment rate in U.S.
+## Unemployment rate in the United States
+
 |Year|January|Februray|March|April|May|June|July|August|September|October|November|December|
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 |2020|3.6|3.5|4.4|14.7|13.3|11.1|10.2|8.4|7.9|6.9
